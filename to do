@@ -1,0 +1,15 @@
+correcciones:
+
+reestructurar de una mejor manera el resumen, talvez cambiando el primer parrafo  mas abajo 
+en los indices /glosario  falta mencionar las tecnologias 
+la referencia de la pagina 1  preferiblemenet al final
+unificar  las secciones si se va usar  A,B,C  o  3.1,3.2,3,3  no hacer mezclas
+Ruedas o Banda de rodaje 
+
+
+modificaciones:
+utilizar las apis de google como  clodud vision  mostrado en el siguiente video :
+https://www.youtube.com/watch?v=eve8DkkVdhI
+valorar  el posible uso de lora  o lorawan o alguna otra forma de tener una red propia 
+especificar los casos   para los que esta diseñado el proyecto  y el protocolo a seguir
+
